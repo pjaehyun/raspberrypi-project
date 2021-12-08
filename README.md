@@ -28,3 +28,6 @@ https://youtu.be/gZNo1Hkg96s
 ![KakaoTalk_20211127_091257964_02](https://user-images.githubusercontent.com/71167256/145215259-dff5780e-2bdf-4b42-aff2-e921b347cae1.jpg)
 
 ![KakaoTalk_20211127_091257964_01](https://user-images.githubusercontent.com/71167256/145215277-edb40ccc-e395-4555-a1ae-3742620ace61.jpg)
+
+![KakaoTalk_20211208_223843859](https://user-images.githubusercontent.com/71167256/145218461-15c44614-1c36-4f3c-8f07-4f2082bafb4a.gif)
+
