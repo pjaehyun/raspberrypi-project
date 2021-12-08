@@ -21,3 +21,8 @@
 ③ 초음파센서는 아두이노를 이용해 코딩한 다음, 데이터 값을 라즈베리 파이가 읽을   수 있도록 하였습니다.   
 ④ USB 카메라: TensorFlow를 이용하여 사람과 차를 인식하도록 하였습니다.   
 ⑤ 거울 및 자동차, 사람 모형은 도로 시연 영상 구성을 위한 대용입니다.   
+
+### 시연 사진
+![KakaoTalk_20211127_091257964_02](https://user-images.githubusercontent.com/71167256/145215259-dff5780e-2bdf-4b42-aff2-e921b347cae1.jpg
+![KakaoTalk_20211127_091257964_01](https://user-images.githubusercontent.com/71167256/145215277-edb40ccc-e395-4555-a1ae-3742620ace61.jpg)
+)
